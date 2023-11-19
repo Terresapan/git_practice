@@ -6,3 +6,4 @@ This is the first commit
 2, this is the second line
 3, this is the thrid line
 4, this is the fourth line
+5, this is the last line
